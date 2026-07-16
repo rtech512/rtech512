@@ -8,43 +8,58 @@
 Building modern, responsive and high-performance web applications.
 </p>
 
+<p align="center">
+<a href="https://chemicalwala.vercel.app/">🌐 Portfolio</a> •
+<a href="https://github.com/rtech512">GitHub</a>
+</p>
+
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 💻 Full Stack Web Developer
-- ⚛️ Specialized in Next.js, React, TypeScript & Firebase
-- 🌱 Passionate about building modern web applications
-- 🎯 Focused on performance, responsive design and clean UI
+- ⚛️ Specialized in Next.js, React, TypeScript, Tailwind CSS & Firebase
+- 🚀 Passionate about building fast, scalable and responsive web applications
+- 📚 Always learning modern web technologies
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-- Next.js
-- React.js
-- TypeScript
-- Tailwind CSS
-- Firebase
-- Git
-- GitHub
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,firebase,git,github,vscode" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🍽️ RestaurantPro
+## ⚗️ ChemicalWala
 
-🌐 https://restaurantpro-delta.vercel.app/
-
-### ⚗️ ChemicalWala
+Engineering Learning Platform for GATE & PSU Aspirants.
 
 🌐 https://chemicalwala.vercel.app/
 
 ---
 
-## 📫 Contact
+## 🍽️ RestaurantPro
 
-GitHub: https://github.com/rtech512
+Modern Responsive Restaurant Website.
 
-⭐ Thanks for visiting my profile!
+🌐 https://restaurantpro-delta.vercel.app/
+
+---
+
+# 📈 GitHub Stats
+
+> After saving this README, we'll add dynamic GitHub stats and streak cards.
+
+---
+
+# 📫 Connect With Me
+
+- GitHub: https://github.com/rtech512
+
+---
+
+⭐ **Thanks for visiting my profile!**
