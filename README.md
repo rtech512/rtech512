@@ -1,29 +1,32 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Rohit+Kumar+Yadav;Full+Stack+Web+Developer;Next.js+%7C+React+%7C+TypeScript+%7C+Firebase;Building+Modern+Responsive+Web+Applications" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Rohit Kumar Yadav</h1>
+# 👋 Hi, I'm Rohit Kumar Yadav
 
-<h3 align="center">
-🚀 Full Stack Web Developer | Next.js • React • TypeScript • Firebase
-</h3>
+### 🚀 Full Stack Web Developer
 
-<p align="center">
-Building modern, responsive and high-performance web applications.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&width=900&lines=Next.js+Developer;React.js+Developer;TypeScript+Developer;Firebase+Developer;Building+Modern+Web+Applications" />
 
-<p align="center">
-<a href="https://chemicalwala.vercel.app/">🌐 Portfolio</a> •
-<a href="https://github.com/rtech512">GitHub</a>
-</p>
+<br>
+
+<a href="https://chemicalwala.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/rtech512">
+<img src="https://img.shields.io/badge/GitHub-rtech512-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=rtech512&style=for-the-badge&color=00C853"/>
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# 💫 About Me
 
-💻 Passionate Full Stack Web Developer
+💻 Full Stack Web Developer
 
-⚛️ Specialized in
+🚀 Specialized in
 
 - Next.js
 - React.js
@@ -31,27 +34,9 @@ Building modern, responsive and high-performance web applications.
 - Tailwind CSS
 - Firebase
 
-🚀 I build modern, responsive, scalable and high-performance web applications.
+🎯 I build modern, responsive, scalable and high-performance web applications.
 
-🌱 Currently working on modern SaaS and educational platforms.
-
----
-
-# 🚀 Live Projects
-
-## ⚗️ ChemicalWala
-
-Engineering Learning Platform for GATE & PSU Aspirants.
-
-🌐 https://chemicalwala.vercel.app/
-
----
-
-## 🍽️ RestaurantPro
-
-Premium Restaurant Website.
-
-🌐 https://restaurantpro-delta.vercel.app/
+🌱 Currently improving my expertise in modern frontend architecture and full-stack development.
 
 ---
 
@@ -59,31 +44,81 @@ Premium Restaurant Website.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,firebase,nodejs,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,firebase,nodejs,html,css,git,github,vscode"/>
 
 </p>
+
+---
+
+# 🚀 Featured Projects
+
+## ⚗️ ChemicalWala
+
+Modern Engineering Learning Platform.
+
+### Features
+
+- 🔐 Authentication
+- 📚 Subject-wise MCQs
+- 📝 Mock Tests
+- 📈 Analytics
+- 📱 Responsive UI
+- ⚡ Fast Performance
+
+### Live
+
+https://chemicalwala.vercel.app/
+
+---
+
+## 🍽 RestaurantPro
+
+Premium Restaurant Website.
+
+### Features
+
+- 🍔 Premium UI
+- 📅 Reservation
+- 📷 Gallery
+- 📖 Menu
+- ⭐ Testimonials
+- 📱 Responsive Design
+
+### Live
+
+https://restaurantpro-delta.vercel.app/
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=rtech512&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtech512&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=rtech512&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rtech512&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
 
 ---
 
@@ -97,13 +132,24 @@ Premium Restaurant Website.
 
 ✅ Portfolio Websites
 
+✅ Educational Platforms
+
 ✅ Firebase Authentication
 
 ✅ Dashboard Development
 
-✅ Responsive UI
-
 ✅ Website Redesign
+
+✅ Responsive Web Development
+
+---
+
+# 📈 Currently Working On
+
+- ⚗️ ChemicalWala
+- 🍽 RestaurantPro
+- 💼 Freelancing Portfolio
+- 🚀 Modern Next.js Applications
 
 ---
 
@@ -119,8 +165,10 @@ https://github.com/rtech512
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ Thanks for visiting my GitHub Profile ⭐
+### ⭐ Thanks for visiting my profile ⭐
 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E676&height=120&section=footer"/>
+
+</div>
