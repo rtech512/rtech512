@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Rohit Kumar Yadav
 
-### 🚀 Full Stack Web Developer
+### 🚀 Full Stack Web Developer | Python Desktop App Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&width=900&lines=Next.js+Developer;React.js+Developer;TypeScript+Developer;Firebase+Developer;Building+Modern+Web+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&width=900&lines=Next.js+Developer;React.js+Developer;TypeScript+Developer;Python+Developer;PySide6+Desktop+Apps;Firebase+Developer;Building+Modern+Web+Applications" />
 
 <br>
 
@@ -24,27 +24,31 @@
 
 # 💫 About Me
 
-💻 Full Stack Web Developer
+💻 Full Stack Web Developer passionate about building modern, scalable and user-friendly applications.
 
-🚀 Specialized in
+🚀 I enjoy developing:
+
+- Modern Business Websites
+- Desktop Applications
+- Educational Platforms
+- Admin Dashboards
+- Responsive Web Apps
+
+🌱 Currently improving my expertise in:
 
 - Next.js
-- React.js
+- React
 - TypeScript
-- Tailwind CSS
 - Firebase
-
-🎯 I build modern, responsive, scalable and high-performance web applications.
-
-🌱 Currently improving my expertise in modern frontend architecture and full-stack development.
+- Python Desktop Development
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,firebase,nodejs,html,css,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,nextjs,react,typescript,javascript,tailwind,firebase,nodejs,html,css,git,github,vscode"/>
 
 </p>
 
@@ -54,18 +58,18 @@
 
 ## ⚗️ ChemicalWala
 
-Modern Engineering Learning Platform.
+Professional Engineering Learning Platform for GATE & PSU Aspirants.
 
 ### Features
 
 - 🔐 Authentication
 - 📚 Subject-wise MCQs
 - 📝 Mock Tests
-- 📈 Analytics
-- 📱 Responsive UI
+- 📈 Result Analytics
+- 📱 Responsive Design
 - ⚡ Fast Performance
 
-### Live
+### Live Demo
 
 https://chemicalwala.vercel.app/
 
@@ -73,20 +77,72 @@ https://chemicalwala.vercel.app/
 
 ## 🍽 RestaurantPro
 
-Premium Restaurant Website.
+Premium Restaurant Website built with Next.js.
 
 ### Features
 
 - 🍔 Premium UI
 - 📅 Reservation
+- 📖 Digital Menu
 - 📷 Gallery
-- 📖 Menu
 - ⭐ Testimonials
-- 📱 Responsive Design
+- 📱 Mobile Responsive
 
-### Live
+### Live Demo
 
 https://restaurantpro-delta.vercel.app/
+
+---
+
+## 📄 RTech PDF Suite
+
+Professional Windows Desktop Application built using Python & PySide6.
+
+### Features
+
+- 📄 Word to PDF
+- 📂 Batch Folder Conversion
+- 📊 Progress Tracking
+- 📝 Conversion Logs
+- 📁 Custom Output Folder
+- 🖥️ Windows Desktop UI
+
+### Technology
+
+Python • PySide6 • Microsoft Word COM • PyInstaller
+
+---
+
+# 💼 Services
+
+✅ Business Websites
+
+✅ Restaurant Websites
+
+✅ Portfolio Websites
+
+✅ Educational Platforms
+
+✅ Landing Pages
+
+✅ Dashboard Development
+
+✅ Firebase Authentication
+
+✅ Desktop Applications (Python)
+
+✅ Responsive Website Development
+
+---
+
+# 🛠 Technologies
+
+| Frontend | Backend | Database | Desktop | Tools |
+|----------|----------|-----------|----------|---------|
+| Next.js | Node.js | Firebase | Python | Git |
+| React | Express | Firestore | PySide6 | GitHub |
+| TypeScript | REST APIs | Authentication | PyInstaller | VS Code |
+| Tailwind CSS | | | | |
 
 ---
 
@@ -122,44 +178,35 @@ https://restaurantpro-delta.vercel.app/
 
 ---
 
-# 💼 Services
+# 📈 Current Focus
 
-✅ Business Websites
+🚀 Building production-ready applications
 
-✅ Restaurant Websites
-
-✅ Landing Pages
-
-✅ Portfolio Websites
-
-✅ Educational Platforms
-
-✅ Firebase Authentication
-
-✅ Dashboard Development
-
-✅ Website Redesign
-
-✅ Responsive Web Development
-
----
-
-# 📈 Currently Working On
+Current Projects:
 
 - ⚗️ ChemicalWala
 - 🍽 RestaurantPro
+- 📄 RTech PDF Suite
 - 💼 Freelancing Portfolio
-- 🚀 Modern Next.js Applications
+
+---
+
+# 🎯 Goals for 2026
+
+- 🚀 Build high-quality software products
+- 💼 Grow as a Freelance Developer
+- 🌍 Develop production-ready web & desktop applications
+- ⭐ Contribute consistently on GitHub
 
 ---
 
 # 📫 Connect With Me
 
-🌐 Portfolio
+### 🌐 Portfolio
 
 https://chemicalwala.vercel.app/
 
-💻 GitHub
+### 💻 GitHub
 
 https://github.com/rtech512
 
@@ -167,8 +214,8 @@ https://github.com/rtech512
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile ⭐
+### ⭐ If you like my work, don't forget to Star my repositories!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00E676&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E676&height=130&section=footer"/>
 
 </div>
