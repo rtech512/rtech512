@@ -2,14 +2,14 @@
 
 # 👋 Hi, I'm Rohit Kumar Yadav
 
-### 🚀 Full Stack Web Developer | Python Desktop App Developer
+### 🚀 Full Stack Web Developer | Python Desktop Application Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&width=900&lines=Next.js+Developer;React.js+Developer;TypeScript+Developer;Python+Developer;PySide6+Desktop+Apps;Firebase+Developer;Building+Modern+Web+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;Next.js+%7C+React+%7C+TypeScript;Python+Desktop+Application+Developer;Building+Modern+Web+Applications;Building+Professional+Desktop+Software" />
 
 <br>
 
 <a href="https://chemicalwala.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐_Portfolio-Live-success?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/rtech512">
@@ -24,23 +24,24 @@
 
 # 💫 About Me
 
-💻 Full Stack Web Developer passionate about building modern, scalable and user-friendly applications.
+I'm a passionate developer who enjoys creating **modern websites** and **professional Windows desktop applications**.
 
-🚀 I enjoy developing:
+### 💼 What I Build
 
-- Modern Business Websites
-- Desktop Applications
-- Educational Platforms
-- Admin Dashboards
-- Responsive Web Apps
+- 🌐 Business Websites
+- 📱 Responsive Web Applications
+- 📊 Dashboard Systems
+- 🎓 Educational Platforms
+- 🖥️ Windows Desktop Software
+- 🔐 Firebase Authentication Systems
 
-🌱 Currently improving my expertise in:
+### 🌱 Currently Learning
 
-- Next.js
-- React
+- Advanced Next.js
 - TypeScript
 - Firebase
 - Python Desktop Development
+- UI/UX Design
 
 ---
 
@@ -58,18 +59,18 @@
 
 ## ⚗️ ChemicalWala
 
-Professional Engineering Learning Platform for GATE & PSU Aspirants.
+Professional learning platform for Chemical Engineering students.
 
-### Features
+### Highlights
 
 - 🔐 Authentication
 - 📚 Subject-wise MCQs
-- 📝 Mock Tests
+- 📝 PSU Mock Tests
 - 📈 Result Analytics
 - 📱 Responsive Design
 - ⚡ Fast Performance
 
-### Live Demo
+### 🌐 Live Demo
 
 https://chemicalwala.vercel.app/
 
@@ -77,18 +78,18 @@ https://chemicalwala.vercel.app/
 
 ## 🍽 RestaurantPro
 
-Premium Restaurant Website built with Next.js.
+Premium restaurant website developed with Next.js.
 
-### Features
+### Highlights
 
 - 🍔 Premium UI
-- 📅 Reservation
+- 📅 Reservation System
 - 📖 Digital Menu
 - 📷 Gallery
 - ⭐ Testimonials
 - 📱 Mobile Responsive
 
-### Live Demo
+### 🌐 Live Demo
 
 https://restaurantpro-delta.vercel.app/
 
@@ -96,18 +97,18 @@ https://restaurantpro-delta.vercel.app/
 
 ## 📄 RTech PDF Suite
 
-Professional Windows Desktop Application built using Python & PySide6.
+Professional Windows desktop application.
 
 ### Features
 
 - 📄 Word to PDF
-- 📂 Batch Folder Conversion
+- 📂 Folder Conversion
 - 📊 Progress Tracking
-- 📝 Conversion Logs
+- 📝 Conversion Log
 - 📁 Custom Output Folder
-- 🖥️ Windows Desktop UI
+- 🖥️ Modern Desktop UI
 
-### Technology
+### Built With
 
 Python • PySide6 • Microsoft Word COM • PyInstaller
 
@@ -115,33 +116,33 @@ Python • PySide6 • Microsoft Word COM • PyInstaller
 
 # 💼 Services
 
-✅ Business Websites
+✔ Business Website Development
 
-✅ Restaurant Websites
+✔ Landing Pages
 
-✅ Portfolio Websites
+✔ Restaurant Websites
 
-✅ Educational Platforms
+✔ Portfolio Websites
 
-✅ Landing Pages
+✔ Educational Platforms
 
-✅ Dashboard Development
+✔ Dashboard Development
 
-✅ Firebase Authentication
+✔ Firebase Authentication
 
-✅ Desktop Applications (Python)
+✔ Python Desktop Applications
 
-✅ Responsive Website Development
+✔ Responsive UI Development
 
 ---
 
 # 🛠 Technologies
 
-| Frontend | Backend | Database | Desktop | Tools |
-|----------|----------|-----------|----------|---------|
-| Next.js | Node.js | Firebase | Python | Git |
-| React | Express | Firestore | PySide6 | GitHub |
-| TypeScript | REST APIs | Authentication | PyInstaller | VS Code |
+| Frontend | Backend | Desktop | Database | Tools |
+|----------|----------|----------|----------|----------|
+| Next.js | Node.js | Python | Firebase | Git |
+| React | Express | PySide6 | Firestore | GitHub |
+| TypeScript | REST APIs | PyInstaller | Authentication | VS Code |
 | Tailwind CSS | | | | |
 
 ---
@@ -168,7 +169,7 @@ Python • PySide6 • Microsoft Word COM • PyInstaller
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -178,11 +179,7 @@ Python • PySide6 • Microsoft Word COM • PyInstaller
 
 ---
 
-# 📈 Current Focus
-
-🚀 Building production-ready applications
-
-Current Projects:
+# 🚀 Current Projects
 
 - ⚗️ ChemicalWala
 - 🍽 RestaurantPro
@@ -191,12 +188,13 @@ Current Projects:
 
 ---
 
-# 🎯 Goals for 2026
+# 🎯 2026 Goals
 
 - 🚀 Build high-quality software products
-- 💼 Grow as a Freelance Developer
-- 🌍 Develop production-ready web & desktop applications
-- ⭐ Contribute consistently on GitHub
+- 💼 Grow a successful freelancing career
+- 🌍 Deliver production-ready web applications
+- 🖥️ Publish more desktop applications
+- ⭐ Maintain an active GitHub portfolio
 
 ---
 
@@ -214,8 +212,10 @@ https://github.com/rtech512
 
 <div align="center">
 
-### ⭐ If you like my work, don't forget to Star my repositories!
+## ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00E676&height=130&section=footer"/>
+If you like my work, consider starring my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E676&height=140&section=footer"/>
 
 </div>
